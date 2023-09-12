@@ -47,6 +47,9 @@
                             <constraint firstItem="Dw3-i3-fbo" firstAttribute="centerX" secondItem="d4F-MB-ltt" secondAttribute="centerX" id="ShY-Ha-7kP"/>
                         </constraints>
                     </view>
+                    <connections>
+                        <outlet property="timerLabel" destination="d4F-MB-ltt" id="JbC-dS-8cI"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
