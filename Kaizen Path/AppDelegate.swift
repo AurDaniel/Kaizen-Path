@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  Kaizen Path
-//
-//  Created by Любовь Сотнич on 09.09.2023.
-//
-
 import UIKit
 
 @main
